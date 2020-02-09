@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractModule.js","sourceRoot":"","sources":["../../../../src/api/modules/impl/AbstractModule.ts"],"names":[],"mappings":";;AAGA,MAAa,cAAc;IAIvB,UAAU;QAEN,OAAO,IAAI,CAAC,OAAO,CAAC;IACxB,CAAC;IAED,KAAK,CAAC,QAAQ;QAEV,OAAO,OAAO,CAAC,OAAO,EAAE,CAAC;IAC7B,CAAC;IAED,KAAK,CAAC,UAAU;QAEZ,OAAO,OAAO,CAAC,OAAO,EAAE,CAAC;IAC7B,CAAC;CACJ;AAlBD,wCAkBC"}

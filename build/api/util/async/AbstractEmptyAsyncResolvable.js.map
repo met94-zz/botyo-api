@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractEmptyAsyncResolvable.js","sourceRoot":"","sources":["../../../../src/api/util/async/AbstractEmptyAsyncResolvable.ts"],"names":[],"mappings":";;AACA,gDAA6C;AAE7C;;GAEG;AACH,MAAsB,4BAA4B;IAM9C,oBAAoB;QAEhB,OAAO,4BAA4B,CAAC,gBAAgB,CAAC;IACzD,CAAC;;AATL,oEAUC;AARmB,6CAAgB,GAAG,yBAAW,CAAC,OAAO,CAAC,8BAA8B,GAAG,mBAAmB,CAAC,CAAC"}
