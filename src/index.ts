@@ -27,3 +27,4 @@ export * from "./api/util/Constructor";
 export * from "./api/util/Logger";
 export * from "./api/util/ModuleAwareRuntime";
 export * from "./api/util/MongoDb";
+export * from "./api/util/AzureStorage";
